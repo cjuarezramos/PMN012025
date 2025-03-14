@@ -28,4 +28,7 @@ for i in range(N):
     print(nomb_eva[i], '\t', pond_eva[i], '\t', nota_eva[i], '\t', puntos_eva[i])   
 print('Puntos totales:', puntos_totales)
 
+# no hay copilot
+
+
 
