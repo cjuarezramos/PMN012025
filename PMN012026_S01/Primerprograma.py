@@ -10,5 +10,5 @@ Descripción: Primer programa de PMN
 print('Hola mundo!')
 print("Bienvenidos a PMN")
 print('Seccion ')
-print(1)
+print('01')
 
